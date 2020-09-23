@@ -1,1 +1,1 @@
-Dockerfile for pm4py==1.5.0.1
+Dockerfile for pm4py
