@@ -15,4 +15,4 @@ RUN apt-get -y install libxml2-dev libxslt-dev libfreetype6-dev libsuitesparse-d
 RUN pip install -U wheel six pytest
 RUN pip install cython==0.29.21 pyvis==0.1.8.2 networkx==2.4 matplotlib==3.3.0 numpy==1.19.2 lxml==4.5.2 graphviz==0.14 pyarrow==0.15.1 pandas==1.1.2 scipy==1.5.2 pydotplus==2.0.2 scikit-learn==0.23.2 pulp==2.1 pytz==2020.1 intervaltree==3.1.0 jsonpickle==1.4.1 stringdist deprecation tqdm pyemd==0.5.1
 RUN pip install pylint==2.6.0 isort==4.2.5
-RUN pip install pm4py==2.1.3
+RUN pip install pm4py==2.1.4
